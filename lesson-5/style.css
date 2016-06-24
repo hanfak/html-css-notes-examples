@@ -2,7 +2,11 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
-   border-top: 5px solid #4c4066;
+  border-top: 5px solid #4c4066;
+  background: url('assets/images/background-right.jpg') right top no-repeat,
+            url('assets/images/background-left.jpg') left no-repeat;
+  background-size: 420px auto, auto 900px;
+  background-attachment: fixed, fixed;
 }
 
 #wrapper {
