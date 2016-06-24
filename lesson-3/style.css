@@ -7,6 +7,9 @@ body {
 header {
   background-color: #fdfdfc;
   text-align: center;
+  border-bottom: 1px solid #e7e6e6;
+  padding-top: 14px;
+  height: 70px;
 }
 
 .my-picture {
