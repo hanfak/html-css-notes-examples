@@ -28,3 +28,8 @@ a {
    margin: 10px auto;
    width: 900px;
 }
+
+#logo {
+   margin: 0 auto 30px;
+   width: 200px;
+}
