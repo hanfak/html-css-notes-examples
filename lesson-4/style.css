@@ -3,3 +3,32 @@ body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
 }
+
+header {
+  background-color: #fdfdfc;
+  border-bottom: 1px solid #e7e6e6;
+  padding-top: 14px;
+  text-align: center;
+}
+
+.portrait, .title {
+  display: inline-block;
+}
+
+.portrait img {
+  border-radius: 45px;
+  height: 85px;
+}
+
+.portrait {
+  padding-bottom: 10px;
+}
+
+.title {
+  margin: 20px 20px 0;
+  vertical-align: top;
+}
+
+.title h1 {
+  color: #3D5167;
+}
