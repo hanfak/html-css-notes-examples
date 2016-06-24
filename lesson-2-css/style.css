@@ -38,3 +38,8 @@ a {
    display: inline;
    margin: 3px;
 }
+
+img {
+  margin: 0;
+  border: 0;
+}
