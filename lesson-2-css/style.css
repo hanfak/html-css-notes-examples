@@ -15,5 +15,11 @@ body {
 ul {
   /*Change properties in this tag of the list style ie icons, position etc*/
   /*http://www.w3schools.com/cssref/pr_list-style.asp*/
-   list-style: none; 
+   list-style: none;
+}
+
+a {
+   color: #a369d5;
+   text-decoration: none;
+   border-bottom: 1px dotted #a369d5;
 }
