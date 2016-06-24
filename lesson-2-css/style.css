@@ -1,5 +1,12 @@
 /*place your styles here*/
 body {
+  /*Can use different formats RGB, hex numbers*/
+  /*http://www.w3schools.com/cssref/pr_text_color.asp*/
   color: hotpink;
+  /*Can define by px, % or word*/
+  /*http://www.w3schools.com/cssref/pr_font_font-size.asp*/
   font-size: 12px;
+  /*Pick a list of fonts to use if browser doesnt support*/
+  /*http://www.w3schools.com/cssref/pr_font_font-family.asp*/
+  font-family: Helvetica, Arial, sans-serif;
 }
