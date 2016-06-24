@@ -62,3 +62,17 @@ header {
   background-color: #e8e8e8;
   padding: 30px 40px;
 }
+
+.start-of-line {
+  float: left;
+}
+
+.end-of-line {
+  float: right;
+}
+
+.start-of-line, .end-of-line {
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+}
