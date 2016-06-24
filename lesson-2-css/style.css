@@ -1,5 +1,13 @@
 /*place your styles here*/
 /*Affect everything in the body tags, but can be overidden further done*/
+html, body, div, h1, h2, h3, h4, h5, h6, p, a, img, small, b, i, ol, ul, li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
 body {
   /*Can use different formats RGB, hex numbers*/
   /*http://www.w3schools.com/cssref/pr_text_color.asp*/
@@ -158,12 +166,4 @@ ol li {
 
 .pictures li:first-child {
   margin-left: 5px;
-}
-
-html, body, div, h1, h2, h3, h4, h5, h6, p, a, img, small, b, i, ol, ul, li {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  vertical-align: baseline;
 }
