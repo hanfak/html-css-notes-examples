@@ -56,3 +56,7 @@ ul.social-media {
   border-left: 7px solid #fdcc38;
   padding-left: 10px;
 }
+
+.social-media li a:hover {
+  border-left-color: #a26cd2;
+}
