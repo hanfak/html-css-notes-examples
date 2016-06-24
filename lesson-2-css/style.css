@@ -43,3 +43,9 @@ img {
   margin: 0;
   border: 0;
 }
+
+.bigimg img {
+  margin: 15px 2px;
+  width: 439px;
+  border: 12px solid #b9b1bf;
+}
