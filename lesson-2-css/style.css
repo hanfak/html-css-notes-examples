@@ -141,3 +141,17 @@ ol li {
 #text-block {
   height: 370px;
 }
+
+.pictures li img {
+  border: 2px solid #b9b1bf;
+}
+
+.bigimg img {
+  margin: 15px 2px;
+  width: 439px;
+  border: 2px solid #b9b1bf;
+}
+
+.bigimg{
+  display: inline;
+}
