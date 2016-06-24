@@ -120,3 +120,24 @@ ol li {
   padding: 6px 20px;
   border-radius: 9px;
 }
+
+#the-quote{
+  border-bottom: 1px solid #f6f4f8;
+  border-top: 1px solid #f6f4f8;
+  margin: 40px auto;
+  width: 90%;
+}
+
+#links {
+  margin: 10px 15px 0 0;
+}
+
+#links li {
+  margin: 0 7px;
+  font-size: 18px;
+  display: inline;
+}
+
+#text-block {
+  height: 370px;
+}
