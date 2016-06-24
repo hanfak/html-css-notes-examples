@@ -32,3 +32,28 @@ header {
 .title h1 {
   color: #3D5167;
 }
+
+#toolbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#toolbar li {
+  display: inline-block;
+  padding: 10px;
+}
+
+#toolbar{
+  background-color: #3D5167;
+  text-align: center;
+}
+
+#toolbar li a {
+  text-decoration: none;
+  color: #e7e7e7;
+}
+
+#toolbar li a:hover {
+  border-bottom: 1px solid;
+}
