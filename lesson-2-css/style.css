@@ -1,4 +1,5 @@
 /*place your styles here*/
+/*Affect everything in the body tags, but can be overidden further done*/
 body {
   /*Can use different formats RGB, hex numbers*/
   /*http://www.w3schools.com/cssref/pr_text_color.asp*/
@@ -9,4 +10,10 @@ body {
   /*Pick a list of fonts to use if browser doesnt support*/
   /*http://www.w3schools.com/cssref/pr_font_font-family.asp*/
   font-family: Helvetica, Arial, sans-serif;
+}
+/*Change all tags with the ul*/
+ul {
+  /*Change properties in this tag of the list style ie icons, position etc*/
+  /*http://www.w3schools.com/cssref/pr_list-style.asp*/
+   list-style: none; 
 }
