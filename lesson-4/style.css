@@ -9,6 +9,9 @@ header {
   border-bottom: 1px solid #e7e6e6;
   padding-top: 14px;
   text-align: center;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
 }
 
 .portrait, .title {
@@ -60,7 +63,7 @@ header {
 
 #content {
   background-color: #e8e8e8;
-  padding: 30px 40px;
+  padding: 160px 30px 40px;
 }
 
 .start-of-line {
