@@ -33,3 +33,8 @@ a {
    margin: 0 auto 30px;
    width: 200px;
 }
+
+.pictures li {
+   display: inline;
+   margin: 3px;
+}
