@@ -73,3 +73,12 @@ a.btn {
 a.btn:hover {
   box-shadow: 1px 1px 2px #4e4c80 inset;
 }
+
+p.about {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+p:not(.about) {
+  line-height: 1.3em;
+}
