@@ -155,3 +155,7 @@ ol li {
 .bigimg{
   display: inline;
 }
+
+.pictures li:first-child {
+  margin-left: 5px;
+}
